@@ -8,4 +8,7 @@ After almost 2 months of work I decided to stop and publish to get some help.
 MAIN COMPONENTS
 
 
--
+- SPI Layer Library
+- HCI Layer Library
+- BSD Socket Layer Library
+- Network Layer Library
